@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="BaioHack">
+  <rect width="180" height="180" fill="#2f2f2d"/>
+  <circle cx="90" cy="82" r="48" fill="none" stroke="#8fa87a" stroke-width="6"/>
+  <path d="M58 92c12-20 52-20 64 0" fill="none" stroke="#f5f3ef" stroke-width="7" stroke-linecap="round"/>
+  <text x="90" y="156" text-anchor="middle" fill="#8fa87a" font-family="system-ui,sans-serif" font-size="22" font-weight="700">BAIO/HACK</text>
+</svg>

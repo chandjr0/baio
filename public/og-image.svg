@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="BaioHack  The calm layer beneath the noise">
+  <rect width="1200" height="630" fill="#f5f3ef"/>
+  <circle cx="920" cy="315" r="180" fill="#d8e2cf"/>
+  <circle cx="920" cy="315" r="130" fill="none" stroke="#2f2f2d" stroke-width="2" opacity="0.35"/>
+  <text x="80" y="180" fill="#2f2f2d" font-family="system-ui,sans-serif" font-size="28" font-weight="600" letter-spacing="6">BAIO/HACK</text>
+  <text x="80" y="290" fill="#2f2f2d" font-family="Georgia,serif" font-size="86" font-weight="600">The calm layer</text>
+  <text x="80" y="390" fill="#8fa87a" font-family="Georgia,serif" font-size="86" font-style="italic">beneath the noise</text>
+  <text x="80" y="500" fill="#5f5f5c" font-family="system-ui,sans-serif" font-size="28">Wellness, intelligently personalised.</text>
+</svg>
